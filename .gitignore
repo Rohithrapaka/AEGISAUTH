@@ -1,0 +1,16 @@
+.gradle/
+.kotlin/
+**/build/
+build/
+local.properties
+*.apk
+*.log
+.idea/
+*.iml
+.externalNativeBuild/
+.cxx/
+aegis-command/node_modules/
+aegis-command/.output/
+aegis-command/.tanstack/
+aegis-command/.wrangler/
+aegis-command/.env
