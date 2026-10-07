@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_description
+string app_name
+string app_tagline
+style Theme.AEGISAUTH
+style Theme.AEGISAUTH.Overlay
+xml accessibility_service_config
+xml data_extraction_rules

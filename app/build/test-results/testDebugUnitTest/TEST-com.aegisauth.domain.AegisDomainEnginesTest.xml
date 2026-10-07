@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aegisauth.domain.AegisDomainEnginesTest" tests="36" skipped="0" failures="0" errors="0" timestamp="2026-09-19T06:02:57" hostname="ROHITH" time="3.006">
+  <properties/>
+  <testcase name="testActiveChallengeTimerExpiry" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.123"/>
+  <testcase name="testRiskEngineLowRisk" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.014"/>
+  <testcase name="testEnrollmentPoseStateMachineTransitions" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.001"/>
+  <testcase name="testTurnLeftPoseValidationAndGuidance" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.003"/>
+  <testcase name="testAegisSessionManagerGracePeriodExpiration" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.037"/>
+  <testcase name="testEnrollmentMetricsLowQualityRejection" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.004"/>
+  <testcase name="testBioHashSameEmbeddingProducesSameHash" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.063"/>
+  <testcase name="testMultiplePackageIndependentGracePeriods" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.379"/>
+  <testcase name="testPassiveLivenessNullFaceNotLive" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.001"/>
+  <testcase name="testQualityEngineInvalidFrameDimensions" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.001"/>
+  <testcase name="testCentroidVectorAggregationAndL2Normalization" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.002"/>
+  <testcase name="testAuthenticationEventAuthMethodAuditing" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.1"/>
+  <testcase name="testCancelNullSafe" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.001"/>
+  <testcase name="testBioHashUnrelatedEmbeddingDoesNotMatch" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.12"/>
+  <testcase name="testPatternHasherVerification" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.025"/>
+  <testcase name="testSystemBiometricStatusEnumMapping" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.036"/>
+  <testcase name="testCancellationClearsGracePeriodEvenIfPreviouslyUnlocked" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.011"/>
+  <testcase name="testMultiTemplateBioHashMatchingOptimalDistance" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.014"/>
+  <testcase name="testGracePeriodLifecycle" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.001"/>
+  <testcase name="testAegisSessionManagerInMemLifecycle" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.0"/>
+  <testcase name="testQualityEngineNoFace" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.001"/>
+  <testcase name="testCancelAndReturnHomeSetsCooldown" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.0"/>
+  <testcase name="testActiveChallengeLifecycle" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.001"/>
+  <testcase name="testRiskEngineChallengeAlwaysMode" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.0"/>
+  <testcase name="testBioHashDeterministicGenerationAndMatching" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.01"/>
+  <testcase name="testCosineSimilarityCalculation" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.0"/>
+  <testcase name="testRiskEngineChallengeNeverMode" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.014"/>
+  <testcase name="testPasswordPBKDF2DerivationAndVerification" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="2.017"/>
+  <testcase name="testBioHashDiscriminatesDistinctIdentities" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.006"/>
+  <testcase name="testTurnRightLookUpLookDownPoseValidation" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.0"/>
+  <testcase name="testRiskEngineHighFailures" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.0"/>
+  <testcase name="testActiveChallengeTimerCountdown" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.0"/>
+  <testcase name="testBioHashSerializationRoundtrip" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.006"/>
+  <testcase name="testActiveChallengeReset" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.0"/>
+  <testcase name="testPassiveLivenessUnacceptableQualityNotLive" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.0"/>
+  <testcase name="testEnrollmentMetricsAcceptable" classname="com.aegisauth.domain.AegisDomainEnginesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

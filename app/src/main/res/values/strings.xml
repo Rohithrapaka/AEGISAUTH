@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AEGISAUTH</string>
+    <string name="app_tagline">Anti-Spoofing Biometric Security Layer</string>
+    <string name="app_description">Next-generation passive liveness detection and protected BioHash template biometric security.</string>
+</resources>

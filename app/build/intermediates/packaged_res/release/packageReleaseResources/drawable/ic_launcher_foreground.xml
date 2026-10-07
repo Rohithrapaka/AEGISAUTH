@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- AEGIS Shield & Biometric Ring -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,20 L78,32 C78,56 68,74 54,88 C40,74 30,56 30,32 L54,20 Z" />
+    <path
+        android:fillColor="#0B0E14"
+        android:pathData="M54,26 L72,35 C72,53 64,68 54,79 C44,68 36,53 36,35 L54,26 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,42 C58.4,42 62,45.6 62,50 C62,54.4 58.4,58 54,58 C49.6,58 46,54.4 46,50 C46,45.6 49.6,42 54,42 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,61 C46.7,61 40.5,65.8 38.5,72 C43,76.5 48.3,80 54,82.5 C59.7,80 65,76.5 69.5,72 C67.5,65.8 61.3,61 54,61 Z" />
+</vector>

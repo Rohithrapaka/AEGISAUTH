@@ -1,0 +1,78 @@
+com.aegisauth.app-pngs-0 C:\Major Project\app\build\generated\res\pngs\release
+com.aegisauth.app-resValues-1 C:\Major Project\app\build\generated\res\resValues\release
+com.aegisauth.app-packageReleaseResources-2 C:\Major Project\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.aegisauth.app-packageReleaseResources-3 C:\Major Project\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.aegisauth.app-release-4 C:\Major Project\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.aegisauth.app-main-5 C:\Major Project\app\src\main\res
+com.aegisauth.app-release-6 C:\Major Project\app\src\release\res
+com.aegisauth.app-room-ktx-2.6.1-7 C:\Users\rapak\.gradle\caches\8.12\transforms\04975ad0c6f3a31df9bfe1ff97a2ec75\transformed\room-ktx-2.6.1\res
+com.aegisauth.app-lifecycle-viewmodel-ktx-2.8.7-8 C:\Users\rapak\.gradle\caches\8.12\transforms\0add4c37997e951793846edc1fcc3ae1\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.aegisauth.app-navigation-common-ktx-2.8.5-9 C:\Users\rapak\.gradle\caches\8.12\transforms\0bd1e173c5f0a831186e36e6c3082f93\transformed\navigation-common-ktx-2.8.5\res
+com.aegisauth.app-datastore-release-10 C:\Users\rapak\.gradle\caches\8.12\transforms\0db5ff947449b3587892116cb76f9924\transformed\datastore-release\res
+com.aegisauth.app-sqlite-2.4.0-11 C:\Users\rapak\.gradle\caches\8.12\transforms\11c3d68f787cf13c1478451cd14c404c\transformed\sqlite-2.4.0\res
+com.aegisauth.app-graphics-path-1.0.1-12 C:\Users\rapak\.gradle\caches\8.12\transforms\12409923aa02475d23eca2d3096c6adc\transformed\graphics-path-1.0.1\res
+com.aegisauth.app-runtime-release-13 C:\Users\rapak\.gradle\caches\8.12\transforms\12532cf9343b6ae327bbff5dbf928aa6\transformed\runtime-release\res
+com.aegisauth.app-material-icons-extended-release-14 C:\Users\rapak\.gradle\caches\8.12\transforms\179a883efe4d7b40ede842144dae3282\transformed\material-icons-extended-release\res
+com.aegisauth.app-material-ripple-release-15 C:\Users\rapak\.gradle\caches\8.12\transforms\1c5ca9f04749721887c592e583f09097\transformed\material-ripple-release\res
+com.aegisauth.app-runtime-saveable-release-16 C:\Users\rapak\.gradle\caches\8.12\transforms\1c80fa37dc9e36259bb8cc0a061e28d2\transformed\runtime-saveable-release\res
+com.aegisauth.app-foundation-layout-release-17 C:\Users\rapak\.gradle\caches\8.12\transforms\21b6b99afc4a12b2653665274614c00d\transformed\foundation-layout-release\res
+com.aegisauth.app-navigation-runtime-ktx-2.8.5-18 C:\Users\rapak\.gradle\caches\8.12\transforms\22015cd86454a2c1f389fd5fc1f591e1\transformed\navigation-runtime-ktx-2.8.5\res
+com.aegisauth.app-ui-tooling-preview-release-19 C:\Users\rapak\.gradle\caches\8.12\transforms\2546df1a55b86f24c14b3b13412f9adb\transformed\ui-tooling-preview-release\res
+com.aegisauth.app-tracing-1.2.0-20 C:\Users\rapak\.gradle\caches\8.12\transforms\2acd332aa88e8ed474c95d04a77ec16d\transformed\tracing-1.2.0\res
+com.aegisauth.app-ui-text-release-21 C:\Users\rapak\.gradle\caches\8.12\transforms\2d1152995c63754cb200c86b6d5f0f8a\transformed\ui-text-release\res
+com.aegisauth.app-savedstate-1.2.1-22 C:\Users\rapak\.gradle\caches\8.12\transforms\2e9d85e17d11c310d0132023132c9db7\transformed\savedstate-1.2.1\res
+com.aegisauth.app-activity-1.9.3-23 C:\Users\rapak\.gradle\caches\8.12\transforms\2f6e478510f34d8c826dd1f8d504c9f5\transformed\activity-1.9.3\res
+com.aegisauth.app-play-services-basement-18.4.0-24 C:\Users\rapak\.gradle\caches\8.12\transforms\2f968b25489da7b7b161537e12586e7e\transformed\play-services-basement-18.4.0\res
+com.aegisauth.app-camera-view-1.4.1-25 C:\Users\rapak\.gradle\caches\8.12\transforms\37f8db2b0bf2eeaa42faa75f195775ca\transformed\camera-view-1.4.1\res
+com.aegisauth.app-appcompat-resources-1.6.1-26 C:\Users\rapak\.gradle\caches\8.12\transforms\3b841b0db3e832d9e8d792332dca6fd6\transformed\appcompat-resources-1.6.1\res
+com.aegisauth.app-hilt-navigation-compose-1.2.0-27 C:\Users\rapak\.gradle\caches\8.12\transforms\3d7a71d1bdadf1d6d3380a5db0c908e6\transformed\hilt-navigation-compose-1.2.0\res
+com.aegisauth.app-tracing-ktx-1.2.0-28 C:\Users\rapak\.gradle\caches\8.12\transforms\403263a050d1f4dd8a6fc89ec0aa3391\transformed\tracing-ktx-1.2.0\res
+com.aegisauth.app-security-crypto-1.1.0-alpha06-29 C:\Users\rapak\.gradle\caches\8.12\transforms\40726895a9a71c655a33124e86a2476f\transformed\security-crypto-1.1.0-alpha06\res
+com.aegisauth.app-lifecycle-viewmodel-release-30 C:\Users\rapak\.gradle\caches\8.12\transforms\412c3b1ef91929fb7a12a9c3274ad8ef\transformed\lifecycle-viewmodel-release\res
+com.aegisauth.app-datastore-preferences-release-31 C:\Users\rapak\.gradle\caches\8.12\transforms\4166bfa12f05a8da8c8ec2916a31a583\transformed\datastore-preferences-release\res
+com.aegisauth.app-emoji2-1.3.0-32 C:\Users\rapak\.gradle\caches\8.12\transforms\47ad2d68e85271324c9ad6d3072aa5d8\transformed\emoji2-1.3.0\res
+com.aegisauth.app-lifecycle-viewmodel-compose-release-33 C:\Users\rapak\.gradle\caches\8.12\transforms\49564905139d4c7fd78c32dd4a444f10\transformed\lifecycle-viewmodel-compose-release\res
+com.aegisauth.app-startup-runtime-1.1.1-34 C:\Users\rapak\.gradle\caches\8.12\transforms\4c5245805db46289c0e5f8cf7fe538c9\transformed\startup-runtime-1.1.1\res
+com.aegisauth.app-room-runtime-2.6.1-35 C:\Users\rapak\.gradle\caches\8.12\transforms\4f5c5a34639d2cab35bb15c22a211078\transformed\room-runtime-2.6.1\res
+com.aegisauth.app-navigation-runtime-2.8.5-36 C:\Users\rapak\.gradle\caches\8.12\transforms\525257ce1437ea268c0d37bf087b6fe4\transformed\navigation-runtime-2.8.5\res
+com.aegisauth.app-fragment-1.5.1-37 C:\Users\rapak\.gradle\caches\8.12\transforms\538c91f19d6d8d2e579d9765234b4342\transformed\fragment-1.5.1\res
+com.aegisauth.app-core-ktx-1.15.0-38 C:\Users\rapak\.gradle\caches\8.12\transforms\601fce2f8ddcdf6c55a5b7adbaaf6163\transformed\core-ktx-1.15.0\res
+com.aegisauth.app-hilt-navigation-1.2.0-39 C:\Users\rapak\.gradle\caches\8.12\transforms\64194968e22c6373460e49e94f89a03e\transformed\hilt-navigation-1.2.0\res
+com.aegisauth.app-navigation-common-2.8.5-40 C:\Users\rapak\.gradle\caches\8.12\transforms\641d5641c659fdfebfa72b8c20576aeb\transformed\navigation-common-2.8.5\res
+com.aegisauth.app-appcompat-1.6.1-41 C:\Users\rapak\.gradle\caches\8.12\transforms\64ba1a983b72c78e52b680024269e243\transformed\appcompat-1.6.1\res
+com.aegisauth.app-ui-graphics-release-42 C:\Users\rapak\.gradle\caches\8.12\transforms\655b0334adb78e4a1a1822c823374329\transformed\ui-graphics-release\res
+com.aegisauth.app-lifecycle-runtime-release-43 C:\Users\rapak\.gradle\caches\8.12\transforms\67479da8105f17f125917f7b37d29d8c\transformed\lifecycle-runtime-release\res
+com.aegisauth.app-lifecycle-runtime-ktx-release-44 C:\Users\rapak\.gradle\caches\8.12\transforms\683931c41899840f6a0052c31f6f872a\transformed\lifecycle-runtime-ktx-release\res
+com.aegisauth.app-animation-core-release-45 C:\Users\rapak\.gradle\caches\8.12\transforms\694b379a080d569edd48325b0803538d\transformed\animation-core-release\res
+com.aegisauth.app-activity-compose-1.9.3-46 C:\Users\rapak\.gradle\caches\8.12\transforms\6af35018579d46870789664aeacffc39\transformed\activity-compose-1.9.3\res
+com.aegisauth.app-customview-poolingcontainer-1.0.0-47 C:\Users\rapak\.gradle\caches\8.12\transforms\6eb71113f7d8eb550017a20a8145cecf\transformed\customview-poolingcontainer-1.0.0\res
+com.aegisauth.app-lifecycle-process-2.8.7-48 C:\Users\rapak\.gradle\caches\8.12\transforms\6f5c5c3f1bec4b7171935959eaaa6326\transformed\lifecycle-process-2.8.7\res
+com.aegisauth.app-play-services-base-18.5.0-49 C:\Users\rapak\.gradle\caches\8.12\transforms\6fd474168edb802053b639ee990c3c5d\transformed\play-services-base-18.5.0\res
+com.aegisauth.app-camera-video-1.4.1-50 C:\Users\rapak\.gradle\caches\8.12\transforms\739aab175694eb7c2d2103f0764283b6\transformed\camera-video-1.4.1\res
+com.aegisauth.app-core-1.15.0-51 C:\Users\rapak\.gradle\caches\8.12\transforms\74006818a0673fe0e1eba2c335e3a329\transformed\core-1.15.0\res
+com.aegisauth.app-ui-geometry-release-52 C:\Users\rapak\.gradle\caches\8.12\transforms\775d00a2e48b180928c1343910eab9e1\transformed\ui-geometry-release\res
+com.aegisauth.app-biometric-1.2.0-alpha05-53 C:\Users\rapak\.gradle\caches\8.12\transforms\8691c65f5329bc974bf1466a8133ee69\transformed\biometric-1.2.0-alpha05\res
+com.aegisauth.app-ui-unit-release-54 C:\Users\rapak\.gradle\caches\8.12\transforms\93f29fbe6b64d49b0be969eecb1ae50f\transformed\ui-unit-release\res
+com.aegisauth.app-ui-util-release-55 C:\Users\rapak\.gradle\caches\8.12\transforms\94a66ccf80dfb9b370834aeae28848ea\transformed\ui-util-release\res
+com.aegisauth.app-material3-release-56 C:\Users\rapak\.gradle\caches\8.12\transforms\959b24e12fcb3c61eb067448c3bdf846\transformed\material3-release\res
+com.aegisauth.app-lifecycle-livedata-core-ktx-2.8.7-57 C:\Users\rapak\.gradle\caches\8.12\transforms\9c175e00d06a5381143b200f2b39734b\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.aegisauth.app-profileinstaller-1.3.1-58 C:\Users\rapak\.gradle\caches\8.12\transforms\9f4dae3b9059fd8c19e75024cf19c19f\transformed\profileinstaller-1.3.1\res
+com.aegisauth.app-activity-ktx-1.9.3-59 C:\Users\rapak\.gradle\caches\8.12\transforms\a091965b2cb0e4203b126da8f4c2ca0b\transformed\activity-ktx-1.9.3\res
+com.aegisauth.app-camera-camera2-1.4.1-60 C:\Users\rapak\.gradle\caches\8.12\transforms\a2cf723b2de21c8d82ec5300a2d81899\transformed\camera-camera2-1.4.1\res
+com.aegisauth.app-emoji2-views-helper-1.3.0-61 C:\Users\rapak\.gradle\caches\8.12\transforms\a33ad93cdb4535b5acf68a42bb131fbf\transformed\emoji2-views-helper-1.3.0\res
+com.aegisauth.app-navigation-compose-2.8.5-62 C:\Users\rapak\.gradle\caches\8.12\transforms\a441a1ffec30796cf0eaf63fa39a1523\transformed\navigation-compose-2.8.5\res
+com.aegisauth.app-foundation-release-63 C:\Users\rapak\.gradle\caches\8.12\transforms\ab5645f99a08481479dbe097b6e11c49\transformed\foundation-release\res
+com.aegisauth.app-material-icons-core-release-64 C:\Users\rapak\.gradle\caches\8.12\transforms\b31804b2fdcf951d705b28b84cdfbceb\transformed\material-icons-core-release\res
+com.aegisauth.app-lifecycle-viewmodel-savedstate-2.8.7-65 C:\Users\rapak\.gradle\caches\8.12\transforms\b6413326c3f6c8623346d3928ec439a0\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.aegisauth.app-animation-release-66 C:\Users\rapak\.gradle\caches\8.12\transforms\bc37015b3c6cae69fb2da6ce45b63026\transformed\animation-release\res
+com.aegisauth.app-lifecycle-livedata-2.8.7-67 C:\Users\rapak\.gradle\caches\8.12\transforms\c31f2d1fa8988c71adb23efae522e489\transformed\lifecycle-livedata-2.8.7\res
+com.aegisauth.app-lifecycle-runtime-compose-release-68 C:\Users\rapak\.gradle\caches\8.12\transforms\c88a79a8253064dd8e6a46907140aa88\transformed\lifecycle-runtime-compose-release\res
+com.aegisauth.app-ui-release-69 C:\Users\rapak\.gradle\caches\8.12\transforms\cf6e24bb909859fdfc885749a32818a3\transformed\ui-release\res
+com.aegisauth.app-datastore-core-release-70 C:\Users\rapak\.gradle\caches\8.12\transforms\cf8935f8c3388e6fc81b1a3585f205b9\transformed\datastore-core-release\res
+com.aegisauth.app-sqlite-framework-2.4.0-71 C:\Users\rapak\.gradle\caches\8.12\transforms\d10c35ee4a1f35426a89fdb7190fc501\transformed\sqlite-framework-2.4.0\res
+com.aegisauth.app-core-runtime-2.2.0-72 C:\Users\rapak\.gradle\caches\8.12\transforms\d773b6341e13e63cbcb383129c3d3b56\transformed\core-runtime-2.2.0\res
+com.aegisauth.app-camera-lifecycle-1.4.1-73 C:\Users\rapak\.gradle\caches\8.12\transforms\db12711cc90a81dfe3b8e6f0074d0d0b\transformed\camera-lifecycle-1.4.1\res
+com.aegisauth.app-camera-core-1.4.1-74 C:\Users\rapak\.gradle\caches\8.12\transforms\f141fafed1313fa488f7a53c11e6d1a6\transformed\camera-core-1.4.1\res
+com.aegisauth.app-savedstate-ktx-1.2.1-75 C:\Users\rapak\.gradle\caches\8.12\transforms\f588ff8bf4d017c964a02558bc33eb4e\transformed\savedstate-ktx-1.2.1\res
+com.aegisauth.app-annotation-experimental-1.4.1-76 C:\Users\rapak\.gradle\caches\8.12\transforms\f97ff7cc8c43bf1abf905c1b94179483\transformed\annotation-experimental-1.4.1\res
+com.aegisauth.app-lifecycle-livedata-core-2.8.7-77 C:\Users\rapak\.gradle\caches\8.12\transforms\fcc01b8ce919febbaf53f775c75ca891\transformed\lifecycle-livedata-core-2.8.7\res

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aegisauth.domain.M151ProfileLimitTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-09-19T06:03:01" hostname="ROHITH" time="0.004">
+  <properties/>
+  <testcase name="BIO 1 migration default profile name" classname="com.aegisauth.domain.M151ProfileLimitTest" time="0.0"/>
+  <testcase name="limit is enforced independently of UI" classname="com.aegisauth.domain.M151ProfileLimitTest" time="0.0"/>
+  <testcase name="profile names are UI metadata only" classname="com.aegisauth.domain.M151ProfileLimitTest" time="0.0"/>
+  <testcase name="profile count is correct after operations" classname="com.aegisauth.domain.M151ProfileLimitTest" time="0.0"/>
+  <testcase name="cannot add 6th profile, returns -1" classname="com.aegisauth.domain.M151ProfileLimitTest" time="0.001"/>
+  <testcase name="deleting a profile allows adding again" classname="com.aegisauth.domain.M151ProfileLimitTest" time="0.0"/>
+  <testcase name="can add up to 5 profiles" classname="com.aegisauth.domain.M151ProfileLimitTest" time="0.001"/>
+  <testcase name="empty list can receive first profile" classname="com.aegisauth.domain.M151ProfileLimitTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

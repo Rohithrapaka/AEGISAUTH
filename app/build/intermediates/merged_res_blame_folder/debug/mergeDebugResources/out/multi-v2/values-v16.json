@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.aegisauth.app-mergeDebugResources-2:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rapak\\.gradle\\caches\\8.12\\transforms\\64ba1a983b72c78e52b680024269e243\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

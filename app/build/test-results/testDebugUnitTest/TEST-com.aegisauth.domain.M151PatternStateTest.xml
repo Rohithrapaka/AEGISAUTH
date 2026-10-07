@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aegisauth.domain.M151PatternStateTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-09-19T06:03:01" hostname="ROHITH" time="0.004">
+  <properties/>
+  <testcase name="mismatching confirm pattern resets state and increments resetKey" classname="com.aegisauth.domain.M151PatternStateTest" time="0.0"/>
+  <testcase name="resetKey is unique for each state transition" classname="com.aegisauth.domain.M151PatternStateTest" time="0.0"/>
+  <testcase name="draw minimum 4 dots is accepted" classname="com.aegisauth.domain.M151PatternStateTest" time="0.0"/>
+  <testcase name="draw 4 or more dots transitions to confirm step and increments resetKey" classname="com.aegisauth.domain.M151PatternStateTest" time="0.0"/>
+  <testcase name="matching confirm pattern returns MATCH" classname="com.aegisauth.domain.M151PatternStateTest" time="0.0"/>
+  <testcase name="error state clears after reset" classname="com.aegisauth.domain.M151PatternStateTest" time="0.0"/>
+  <testcase name="draw maximum 9 dots is accepted" classname="com.aegisauth.domain.M151PatternStateTest" time="0.0"/>
+  <testcase name="first pattern is not exposed during confirm step" classname="com.aegisauth.domain.M151PatternStateTest" time="0.001"/>
+  <testcase name="draw less than 4 dots returns error and increments resetKey" classname="com.aegisauth.domain.M151PatternStateTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

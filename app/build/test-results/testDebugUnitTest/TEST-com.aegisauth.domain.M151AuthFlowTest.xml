@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aegisauth.domain.M151AuthFlowTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-09-19T06:03:00" hostname="ROHITH" time="0.172">
+  <properties/>
+  <testcase name="authenticated state — not recovery" classname="com.aegisauth.domain.M151AuthFlowTest" time="0.11"/>
+  <testcase name="after system biometric failure on aegisauth, recovery is shown" classname="com.aegisauth.domain.M151AuthFlowTest" time="0.03"/>
+  <testcase name="third-party app never shows recovery even if recovery is configured" classname="com.aegisauth.domain.M151AuthFlowTest" time="0.029"/>
+  <testcase name="after system biometric failure on third-party app, access is denied" classname="com.aegisauth.domain.M151AuthFlowTest" time="0.0"/>
+  <testcase name="face failure does not show recovery" classname="com.aegisauth.domain.M151AuthFlowTest" time="0.0"/>
+  <testcase name="initial state is FaceSearching" classname="com.aegisauth.domain.M151AuthFlowTest" time="0.001"/>
+  <testcase name="no recovery configured, recovery fallback not shown" classname="com.aegisauth.domain.M151AuthFlowTest" time="0.0"/>
+  <testcase name="face searching state never shows recovery" classname="com.aegisauth.domain.M151AuthFlowTest" time="0.0"/>
+  <testcase name="access denied is terminal for third-party" classname="com.aegisauth.domain.M151AuthFlowTest" time="0.0"/>
+  <testcase name="recovery only after full biometric chain failure" classname="com.aegisauth.domain.M151AuthFlowTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

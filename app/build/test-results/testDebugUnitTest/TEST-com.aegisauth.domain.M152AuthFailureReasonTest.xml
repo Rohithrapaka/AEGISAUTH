@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aegisauth.domain.M152AuthFailureReasonTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-09-19T06:03:01" hostname="ROHITH" time="0.114">
+  <properties/>
+  <testcase name="no face feedback maps to NO_FACE_DETECTED" classname="com.aegisauth.domain.M152AuthFailureReasonTest" time="0.11"/>
+  <testcase name="blurry image feedback maps to FACE_NOT_CLEAR" classname="com.aegisauth.domain.M152AuthFailureReasonTest" time="0.001"/>
+  <testcase name="poor lighting feedback maps to POOR_LIGHTING" classname="com.aegisauth.domain.M152AuthFailureReasonTest" time="0.0"/>
+  <testcase name="face too far or small feedback maps to FACE_TOO_FAR" classname="com.aegisauth.domain.M152AuthFailureReasonTest" time="0.0"/>
+  <testcase name="all reason codes are non-empty and unique" classname="com.aegisauth.domain.M152AuthFailureReasonTest" time="0.0"/>
+  <testcase name="fingerprint button should not be visible on initial search state" classname="com.aegisauth.domain.M152AuthFailureReasonTest" time="0.001"/>
+  <testcase name="extreme angle feedback maps to FACE_ANGLE_INVALID" classname="com.aegisauth.domain.M152AuthFailureReasonTest" time="0.0"/>
+  <testcase name="face too close feedback maps to FACE_TOO_CLOSE" classname="com.aegisauth.domain.M152AuthFailureReasonTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
